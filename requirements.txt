@@ -1,0 +1,11 @@
+# Ambiente Python usado nos notebooks e scripts (Python 3.9 recomendado pelo PyLEiDA)
+pyleida
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+nilearn
+statsmodels
+openpyxl
+jupyter

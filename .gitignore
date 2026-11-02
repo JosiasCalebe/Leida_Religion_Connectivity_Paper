@@ -1,0 +1,38 @@
+# Dados pesados do PyLEiDA (ficam fora do repositório; ver README.md e MANIFEST.md)
+**/time_series/
+**/eigenvectors.csv
+**/predictions.csv
+**/models/
+*.pkl
+*.mat
+*.nii
+*.nii.gz
+!02_CONN_Exports/atlas/*.nii.gz
+
+# Dados brutos / derivativos do OpenNeuro
+ID1000Files/
+derivatives/
+
+# Relatórios HTML (~20 MB cada). Descomente se o repositório ficar grande demais para o GitHub
+# **/report_*.html
+# 07_Paper_Results/figures/leida_plots_exports/*.html
+
+# Zips e cópias de segurança
+*.zip
+*.rar
+*- Copia.*
+
+# Python / Jupyter / R
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
+
+# SO / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

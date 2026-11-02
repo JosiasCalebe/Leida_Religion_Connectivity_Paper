@@ -1,0 +1,3 @@
+k	variable	group_1	group_2	statistic	p-value	test	effect_size	alpha_Bonferroni	reject_null
+2	PL_state_1	nonreligious	religious	-0.15995718659507902	0.8714257148570286	t-test	0.016586787572407804	0.025	False
+2	PL_state_2	nonreligious	religious	0.42070391114901107	0.6730653869226155	t-test	0.043624963364568524	0.025	False

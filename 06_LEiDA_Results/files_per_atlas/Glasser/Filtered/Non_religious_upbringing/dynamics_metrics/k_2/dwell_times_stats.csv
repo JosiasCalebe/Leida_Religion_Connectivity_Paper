@@ -1,0 +1,3 @@
+k	variable	group_1	group_2	statistic	p-value	test	effect_size	alpha_Bonferroni	reject_null
+2	PL_state_1	no	yes	-0.4224197465285759	0.6744651069786043	t-test	0.05048881661987369	0.025	False
+2	PL_state_2	no	yes	1.039171997504672	0.3093381323735253	t-test	0.12420481014367529	0.025	False

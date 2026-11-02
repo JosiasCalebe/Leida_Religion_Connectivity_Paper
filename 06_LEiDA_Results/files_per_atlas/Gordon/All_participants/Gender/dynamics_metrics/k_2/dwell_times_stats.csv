@@ -1,0 +1,3 @@
+k	variable	group_1	group_2	statistic	p-value	test	effect_size	alpha_Bonferroni	reject_null
+2	PL_state_1	female	male	1.75253987322641	0.08498300339932013	welch	0.11672124054918463	0.025	False
+2	PL_state_2	female	male	-2.188499729257378	0.01979604079184163	t-test	0.14773580045126847	0.025	True
